@@ -1,6 +1,6 @@
 html {
   font-size: 10px;
-  background: url('background.jpg') bottom center;
+  background: url('./resources/images/background.jpg') bottom center;
   background-size: cover;
 }
 
@@ -34,8 +34,8 @@ body,html {
 
 .playing {
   transform: scale(1.1);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  border-color: var(--color);/*appel d'une variable css voir ligne 16 dans le script*/
+  box-shadow: 0 0 1rem var(--color);
 }
 
 kbd {
