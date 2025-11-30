@@ -1,3 +1,3 @@
 # DrumKit
 
-Faites de la batterie.
+[Faites votre meilleur beat](https://feryluc.github.io/DrumKit/)
